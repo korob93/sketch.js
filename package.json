@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "INTRIDEA Inc."
+  },
+  "contributors":[{
+	"name": "Dmitry Vorobev",
+	"email" : "dvorobevn@gmail.com"
+  }],
+  "bugs": {
+    "url": "https://github.com/intridea/sketch.js/issues"
+  },
+  "dependencies": {},
+  "description": "A jQuery plugin for dead simple Canvas-based drawing. http://intridea.github.com/sketch.js",
+  "devDependencies": {},
+  "directories": {
+    "doc": "docs",
+    "example": "example",
+    "test": "test"
+  },
+  "homepage": "https://github.com/intridea/sketch.js#readme",
+  "license": "ISC",
+  "main": "lib/sketch.js",
+  "maintainers": [
+    {
+      "name": "codingintrigue",
+      "email": "ryan@codingintrigue.co.uk"
+    }
+  ],
+  "name": "jquery-sketch",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korob93/sketch.js.git"
+  },
+  "version": "0.0.1"
+}
